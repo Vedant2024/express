@@ -23,6 +23,7 @@
     - [Emeritus Triagers](#emeritus-triagers)
 - [License](#license)
 
+# Vedant
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
